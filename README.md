@@ -1,2 +1,2 @@
-# KiraStoreCalculator
+# GrossryStoreCalculator
 This is a calculator. 
